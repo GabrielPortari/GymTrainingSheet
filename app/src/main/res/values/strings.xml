@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Gym Training Sheet</string>
+
+    <!-- Login activity -->
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="enter">Enter</string>
+    <string name="not_registered">Not registered?</string>
+    <string name="register_for_free">Register for free</string>
+
+    <!-- Register activity -->
+    <string name="register">Register</string>
+    <string name="username">Name</string>
+    <string name="already_registered">Already registered?</string>
+    <string name="return_to_login">Return to login</string>
+    <string name="i_have_read">I have read and agree to the Terms of Use and Privacy Policy</string>
+    <string name="please_check">Please confirm that you have read and agree to the Terms of Use and Privacy Policy</string>
+
+    <!-- Bottom navigation menu -->
+    <string name="home">Home</string>
+    <string name="workouts">Workouts</string>
+    <string name="manage_week">Manage Week</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
