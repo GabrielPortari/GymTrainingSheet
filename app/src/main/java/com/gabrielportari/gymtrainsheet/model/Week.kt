@@ -5,6 +5,6 @@ class Week(
     val idUser: Int,
     val description: String,
     val weekName: String,
-    val workouts: Array<Workout>
+    val weekDays: WeekDay
 ) {
 }
