@@ -1,4 +1,4 @@
-package com.gabrielportari.gymtrainsheet.view
+package com.gabrielportari.gymtrainsheet.viewmodel
 
 import androidx.lifecycle.ViewModel
 

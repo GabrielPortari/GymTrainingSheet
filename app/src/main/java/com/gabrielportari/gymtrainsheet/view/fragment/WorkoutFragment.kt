@@ -1,4 +1,4 @@
-package com.gabrielportari.gymtrainsheet.view
+package com.gabrielportari.gymtrainsheet.view.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment

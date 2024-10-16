@@ -1,23 +1,22 @@
-package com.gabrielportari.gymtrainsheet.view
+package com.gabrielportari.gymtrainsheet.view.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import com.gabrielportari.gymtrainsheet.R
-import com.gabrielportari.gymtrainsheet.databinding.FragmentHomeBinding
+import com.gabrielportari.gymtrainsheet.databinding.FragmentWeekManageBinding
 
-class HomeFragment : Fragment() {
+class WeekManageFragment : Fragment() {
 
-    private var _binding: FragmentHomeBinding? = null
+    private var _binding: FragmentWeekManageBinding? = null
     private val binding get() = _binding!!
 
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-        _binding = FragmentHomeBinding.inflate(inflater, container, false)
+        _binding = FragmentWeekManageBinding.inflate(inflater, container, false)
         return binding.root
     }
 
